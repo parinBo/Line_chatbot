@@ -5,5 +5,5 @@
 https://developers.line.biz/en/
 ```
 * go to products > Messaging API (จะอยู่ด้านซ้าย)
-(chatbot1.png)
+(https://github.com/parinBo/Line_chatbot/blob/main/chatbot1.png =250x250))
 
